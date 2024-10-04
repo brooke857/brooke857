@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @brooke857
+- 👀 I’m interested in blockchain technologies, artificial intelligence, and open-source projects.
+- 🌱 I’m currently learning Rust programming and experimenting with machine learning models.
+- 💞️ I’m looking to collaborate on decentralized finance (DeFi) projects and AI-powered trading systems.
+- 📫 How to reach me: Send me a DM on GitHub
+- 😄 Pronouns: her
